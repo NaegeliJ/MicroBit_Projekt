@@ -10,8 +10,8 @@ Die Projektarbeit wird in 2er-Teams durchgeführt. Jede Gruppe muss einen eigene
 
 ## Projektablauf
 1. Projektplan
-   a. Absprache des Projektumfangs
-   b. Abgabedatum: 23.12.2022
+   * Absprache des Projektumfangs
+   * Abgabedatum: 23.12.2022
 2. Benötigte Komponenten/ Kompatibilität
 3. Lösungsansatz erstellen
 4. Flussdiagramm erstellen
