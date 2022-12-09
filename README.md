@@ -9,18 +9,18 @@ Die Projektarbeit wird in 2er-Teams durchgeführt. Jede Gruppe muss einen eigene
 * https://tech.microbit.org/hardware/
 
 ## Projektablauf
-1.Projektplan
-  a.Absprache des Projektumfangs
-  b.Abgabedatum: 23.12.2022
-2.Benötigte Komponenten/ Kompatibilität
-3.Lösungsansatz erstellen
-4.Flussdiagramm erstellen
-5.Hardware zusammenbauen
-6.Softwarecode in C/C++ schreiben
-7.Testen
+1. Projektplan
+   a. Absprache des Projektumfangs
+   b. Abgabedatum: 23.12.2022
+2. Benötigte Komponenten/ Kompatibilität
+3. Lösungsansatz erstellen
+4. Flussdiagramm erstellen
+5. Hardware zusammenbauen
+6. Softwarecode in C/C++ schreiben
+7. Testen
 
 ## Finale Projektabgabe
-Abgabedatum: 21.01.2023
+Abgabedatum: 21.01.2023 
 Bis zum Abgabedatum müssen folgende Unterlagen auf euer GitHub Repository hochgeladen werden.
 * Projektplan→ als Seite im Wiki
   * MUSS: Diese Kriterien/Funktionenmüssen erfüllt werden damit die Anwendungfunktioniert.
