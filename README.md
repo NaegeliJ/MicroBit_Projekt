@@ -8,7 +8,7 @@ Die Projektarbeit wird in 2er-Teams durchgeführt. Jede Gruppe muss einen eigene
 * https://microbit.org/projects/make-it-code-it/?filters=makecode
 * https://tech.microbit.org/hardware/
 
-##Projektablauf
+## Projektablauf
 1.Projektplan
   a.Absprache des Projektumfangs
   b.Abgabedatum: 23.12.2022
@@ -19,7 +19,7 @@ Die Projektarbeit wird in 2er-Teams durchgeführt. Jede Gruppe muss einen eigene
 6.Softwarecode in C/C++ schreiben
 7.Testen
 
-##Finale Projektabgabe
+## Finale Projektabgabe
 Abgabedatum: 21.01.2023
 Bis zum Abgabedatum müssen folgende Unterlagen auf euer GitHub Repository hochgeladen werden.
 * Projektplan→ als Seite im Wiki
