@@ -4,7 +4,7 @@ Informatik Projektarbeit micro:bit Isabel Geissmann
 ## Projektbeschreibung
 Die Projektarbeit wird in 2er-Teams durchgeführt. Jede Gruppe muss einen eigenen Projektumfang definieren und das Projekt durchführen. Für das Projekt muss der micro:bit verwendet werden und es können zusätzlich Schalter, Sensoren oder Aktoren genutzt werden. Der benötigte Softwarecode für das Projekt muss selbstständig entwickelt werden.Die Programmiersprache ist C/C++. Dabei soll der Schwerpunkt des Projekts auf das Coden gelegt werden.
 
-##Ideen& Komponenten
+## Ideen& Komponenten
 * https://microbit.org/projects/make-it-code-it/?filters=makecode
 * https://tech.microbit.org/hardware/
 
