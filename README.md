@@ -64,4 +64,4 @@ Das Projekt wird benotet und zählt doppelt zur Semesternote. Das Projekt wird w
 | 14.01.2023     | Projektarbeit |
 | 20./21.01.2023 | Projektarbeit |
 | 21.01.2023 23:59 Uhr | Finale Projektabgabem Abgabe der Präsentation |
-| 28.01.2022 | Projektpräsentation |
+| 28.01.2023 | Projektpräsentation |
