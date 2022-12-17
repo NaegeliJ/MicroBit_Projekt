@@ -6,28 +6,40 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # About The Project
-
-This is a Micro:Bit Project for School
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
+Welcome to the Atari Breakout project for the micro:bit! This project allows you to play the classic Atari game on your micro:bit and an external display with an SPI interface.
 
 ## Built With
-
 [Lancaster University](https://lancaster-university.github.io/microbit-docs/)
 
+## Requirements
+To get started, you will need the following:
+* A micro:bit board
+* An external display with an SPI interface, such as an OLED display
+
 ## Getting Started
+* Download the `MicrobitFile.hex` files from the repository.
+* Connect the external display to the micro:bit using the SPI interface.
+* Connect your micro:bit to your computer using a USB cable.
+* Upload the code from your computer to your micro:bit.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## Playing the game
+To play the game, simply use the buttons to control the paddle.
 
+The left button moves the paddle left, while the right button moves the paddle right. Use the paddle to bounce the ball back up to the bricks and try to clear the level. The game will be displayed on the external display.
+
+## Troubleshooting
+If you have any issues getting the game to work, here are a few things to try:
+* Double-check that the code is correctly uploaded to the micro:bit.
+* Check that the external display is properly connected to the micro:bit and functioning correctly.
+*Try resetting the micro:bit by pressing the reset button.
+
+If you continue to have issues, feel free to reach out for support or check the project's repository for any updates or known issues.
 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
 
 ## Roadmap
 
@@ -37,7 +49,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Nested Feature
 
 See the [open issues](https://github.com/NaegeliJ/MicroBit_Projekt/issues) for a full list of proposed features (and known issues).
-
 
 ## License
 
